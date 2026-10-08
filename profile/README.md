@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/home/GdAyo/.github/logos/kairo-logo-light.svg" alt="Kairo Solutions Logo" width="200"/>
+  <img src="logos/kairo-logo-light.svg" alt="Kairo Solutions Logo" width="200"/>
 </div>
 
 # Kairo Solutions
@@ -77,6 +77,6 @@ For inquiries about Kairo Solutions or our projects, please reach out through ou
 ---
 
 <div align="center">
-  <img src="/home/GdAyo/.github/logos/kairo-logo-dark.svg" alt="Kairo Solutions Logo" width="150"/>
+  <img src="logos/kairo-logo-dark.svg" alt="Kairo Solutions Logo" width="150"/>
   <p><em>Building better tools for developers</em></p>
 </div>
